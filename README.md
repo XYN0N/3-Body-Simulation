@@ -12,5 +12,4 @@ ffmpeg (for video processing)
 
 # Installation
 python -m venv myenv
-source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
 pip install -r requirements.txt
