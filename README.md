@@ -12,3 +12,6 @@ ffmpeg (for video processing)
 
 # Installation
 pip install -r requirements.txt
+
+# Start
+python bot.py 
