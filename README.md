@@ -11,5 +11,4 @@ Python 3.6 or later
 ffmpeg (for video processing)
 
 # Installation
-python -m venv myenv
 pip install -r requirements.txt
